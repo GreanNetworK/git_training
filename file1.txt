@@ -1,1 +1,4 @@
 something
+addd newline
+oops! forgot something
+xxxxxx
